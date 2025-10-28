@@ -90,11 +90,6 @@ Azure Storage Explorer provides numerous feature to facilitate interaction with 
 * **Main Functions:** Query, edit, and delete table entries.
 * **Typical Uses:** Semi-structured data storage, managing key-value pairs.
 
-### Managed Disks
-
-* **Main Functions:** Inspect, copy, and handle disk snapshots.
-* **Typical Uses:** Backup plans, disaster recovery processes.
-
 ## Advanced Features
 
 * **Storage Monitoring:** Track performance metrics and analyze logs for operational insights.
